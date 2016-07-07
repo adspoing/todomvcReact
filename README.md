@@ -1,4 +1,4 @@
-# react_starter
+# todoMVC
 my usual react starter
 
 ## usage (for dev)
